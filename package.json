@@ -1,0 +1,1 @@
+{"description":"Airdrop Radar — a crypto dashboard for airdrop hunters, powered by live CoinMarketCap API data. Built for the Build with CMC: API Hackathon Round 2 (Data & Visualisation track).","engines":{"node":">=18"},"license":"MIT","main":"server.js","name":"airdrop-radar","scripts":{"start":"node server.js"},"version":"1.0.0"}
